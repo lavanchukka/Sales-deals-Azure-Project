@@ -241,6 +241,7 @@
 				"typeProperties": {
 					"location": {
 						"type": "AzureBlobFSLocation",
+						"folderPath": "raw-data",
 						"fileSystem": "raw-data"
 					},
 					"columnDelimiter": ",",
