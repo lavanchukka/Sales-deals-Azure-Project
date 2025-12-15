@@ -9,8 +9,7 @@
 		"type": "DelimitedText",
 		"typeProperties": {
 			"location": {
-				"type": "FileServerLocation",
-				"folderPath": "Data Sources"
+				"type": "FileServerLocation"
 			},
 			"columnDelimiter": ",",
 			"escapeChar": "\\",
