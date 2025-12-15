@@ -5,9 +5,9 @@
 		"annotations": [],
 		"type": "FileServer",
 		"typeProperties": {
-			"host": "C:\\Users\\LAVAN KUMAR\\Downloads\\visa, sop and resume\\Projects\\Azure end2end project1 Nucleusyt",
+			"host": "C:\\Users\\LAVAN KUMAR\\Downloads\\visa, sop and resume\\Projects\\Azure end2end project1 Nucleusyt\\Data Sources",
 			"userId": "Lavan Kumar",
-			"encryptedCredential": "eyJDcmVkZW50aWFsSWQiOiJjYTUwYjI4NC1lYmI0LTQ4ZjEtYjY5Yi1iYmM2M2U3MTc1M2EiLCJWZXJzaW9uIjoiMi4wIiwiQ2xhc3NUeXBlIjoiTWljcm9zb2Z0LkRhdGFQcm94eS5Db3JlLkludGVyU2VydmljZURhdGFDb250cmFjdC5DcmVkZW50aWFsU1UwNkNZMTQifQ=="
+			"encryptedCredential": "eyJDcmVkZW50aWFsSWQiOiJhYzE3NmY0Ny1kYjdkLTRiMWItYTBmOC01OGVhOTliYzJhY2EiLCJWZXJzaW9uIjoiMi4wIiwiQ2xhc3NUeXBlIjoiTWljcm9zb2Z0LkRhdGFQcm94eS5Db3JlLkludGVyU2VydmljZURhdGFDb250cmFjdC5DcmVkZW50aWFsU1UwNkNZMTQifQ=="
 		},
 		"connectVia": {
 			"referenceName": "integrationRuntime1",
