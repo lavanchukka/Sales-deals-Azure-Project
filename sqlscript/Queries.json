@@ -2,7 +2,7 @@
 	"name": "Queries",
 	"properties": {
 		"content": {
-			"query": "-- find close value >2000\nselect * from dbo.vsales_pipeline1\nwhere close_value >2000\norder by close_value Desc;\n\n--\n",
+			"query": "-- find close value >2000\nselect * from dbo.vsales_pipeline1\nwhere close_value >2000\norder by close_value Desc;\n\n--find which product has highest gross value\nselect product, close_value\n from dbo.vproducts\n order by close_value DESC;\n\n",
 			"metadata": {
 				"language": "sql"
 			},
