@@ -61,10 +61,10 @@ The sales deals data set is located on-premise(from maven analytics), dataset ha
 
         ii) click on add action, add send email, select parameters body and subject and write the below expression to get email with the following details:
      Pipeline Details:
-                  Name: 
-                  Status
-                  ID:
-                  time:
+                  Name: @name
+                  Status: @status
+                  ID: @pipelineid
+                  time: @time utc
 
   ### Azure Monitor
 
@@ -80,7 +80,8 @@ The sales deals data set is located on-premise(from maven analytics), dataset ha
 13)	Validate the pipeline and run by manually triggering or scheduling.
 14)	Now the data from the on-premise should be moved to raw container in storage.
 
-    ### Azure Key Vault
+ ### Azure Key Vault
+ 
 15)	Create Azure Key vault -> under objects –> click on secret and create secret, use storage account (Adls)security –> access key –> key 1 and click on create secret.
 
  ### Databricks
