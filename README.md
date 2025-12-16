@@ -18,6 +18,8 @@ The sales deals data set is located on-premise(from maven analytics), dataset ha
 
 # Project detailed steps
 
+### Azure Storage Account
+
 1)	Create azure resource group
 2)	Create azure storage account (ADLS Gen 2)
    
