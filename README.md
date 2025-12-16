@@ -31,6 +31,10 @@ The sales deals data set is located on-premise(from maven analytics), dataset ha
 ### GitHub 
    
 5)	Link GitHub repository to azure data factory for version control.
+
+   
+### Integration Runtime 
+   
 6)	Create self-hosted integration runtime (IR).
 7)	Run the downloaded IR file.
 
