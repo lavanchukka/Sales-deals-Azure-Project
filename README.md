@@ -5,6 +5,10 @@ This Project helps in understanding how various azure services &amp; tools are u
 
 The sales deals data set is located on-premise(from maven analytics), dataset has 5 csv files named accounts, products, sales teams, and sales opportunities, about a B2B sales pipeline data from a fictitious company that sells computers hardware.
 
+# Architecture
+
+
+
 ## In this project we will perform the following tasks
 
 1. Move on-premise data to the cloud using Azure Data Factory with a Self-Hosted Integration Runtime(IR).
