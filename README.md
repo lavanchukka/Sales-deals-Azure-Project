@@ -18,7 +18,7 @@ The sales deals data set is located on-premise(from maven analytics), dataset ha
 
 ![architecture](https://github.com/lavanchukka/Sales-deals-Azure-Project/blob/main/Architecture.png)
 
-## In this project we will perform the following tasks
+### In this project we will perform the following tasks:
 
 1. Move on-premise data to the cloud using Azure Data Factory with a Self-Hosted Integration Runtime(IR).
 2. Integrate data factory with GitHub for version control.
