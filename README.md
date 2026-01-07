@@ -1,4 +1,13 @@
 # Sales deals Azure End2End Project
+![Azure Data Factory](https://img.shields.io/badge/Azure-Data%20Factory-blue?logo=microsoft-azure&style=flat-square)
+![Azure Datalake Gen2](https://img.shields.io/badge/Azure-Datalake%20Gen2-blue?logo=microsoft-azure&style=flat-square)
+![Azure Logic Apps](https://img.shields.io/badge/Azure-Logic%20Apps-blue?logo=microsoft-azure&style=flat-square)
+![Azure Synapse](https://img.shields.io/badge/Azure-Synapse%20Analytics-blue?logo=microsoft-azure&style=flat-square)
+![PySpark](https://img.shields.io/badge/PySpark-Big%20Data-orange?logo=apache-spark&style=flat-square)
+![Databricks](https://img.shields.io/badge/Databricks-PySpark-red?logo=databricks&style=flat-square)
+![PowerBI](https://img.shields.io/badge/Power%20BI-Dashboard-yellow?logo=power-bi&style=flat-square)
+![Git](https://img.shields.io/badge/Git-CI%2FCD-green?logo=git&style=flat-square)
+
 This Project helps in understanding how various azure services &amp; tools are used to implement an end-end data project.
 
 # Dataset
